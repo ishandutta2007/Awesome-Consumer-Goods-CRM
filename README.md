@@ -5,11 +5,14 @@
 # 🛒 Awesome-Consumer-Goods-CRM
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="httss://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoCllor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Consumer-Goods-CRM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Consumer-Goods-CRM?style=social" alt="GitHub stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Consumer-Goods-CRM/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Consumer-Goods-CRM?style=social" alt="GitHub forks"></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ## 🌐 Curated List of SaaS Products & Open-Source GitHub Projects
@@ -23,6 +26,8 @@
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
 - [📦 Recommended Open-Source Architecture Stack](#-recommended-open-source-architecture-stack)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [🌟 Star History](#-star-history)
+- [💖 Support](#-support)
 - [⚠️ Disclaimer](#️-disclaimer)
 
 ---
@@ -129,6 +134,30 @@ Contributions are warmly encouraged! To propose a new software platform or updat
 4. 🚀 **Submit a Pull Request** with a concise explanation.
 
 ⭐ If you find this directory valuable, please consider giving it a star!
+
+---
+
+## 🌟 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Consumer-Goods-CRM&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Consumer-Goods-CRM&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+Thank you for visiting and supporting the **Awesome Consumer Goods CRM** directory! 🙏
+
+If you find this curated list helpful for your enterprise research, field workflows, or open-source builds, please consider:
+- ⭐ **Starring** the repository on GitHub to boost visibility.
+- 🍴 **Forking** and contributing new CPG platforms, tools, or audit utilities.
+- 📢 **Sharing** this repository with fellow CPG professionals, engineers, and supply chain enthusiasts.
+- ☕ **Buying a coffee & sponsoring the maintainer**: Support ongoing curation and maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+</p>
 
 ---
 
