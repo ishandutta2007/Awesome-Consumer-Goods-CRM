@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="httss://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoCllor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Consumer-Goods-CRM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Consumer-Goods-CRM?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Consumer-Goods-CRM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Consumer-Goods-CRM?style=social" alt="GitHub_Stars"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Consumer-Goods-CRM/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Consumer-Goods-CRM?style=social" alt="GitHub forks"></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
@@ -61,9 +61,9 @@ Below is the curated landscape of leading commercial SaaS platforms tailored for
 
 ## 🔓 Open-Source GitHub Projects
 
-These open-source repositories provide self-hosted CRM, ERP, headless commerce, point-of-sale, and Product Information Management (PIM) capabilities needed to assemble transparent, vendor-independent Consumer Goods CRM stacks. Repositories are ranked descending by GitHub star count.
+These open-source repositories provide self-hosted CRM, ERP, headless commerce, point-of-sale, and Product Information Management (PIM) capabilities needed to assemble transparent, vendor-independent Consumer Goods CRM stacks. Repositories are ranked descending by GitHub Stars_Count.
 
-| 💻 Repository | ⭐ GitHub Stars | ⚖️ License | 🏷️ Category / Primary Function | 📝 CPG & Consumer Goods Capabilities |
+| 💻 Repository | ⭐ GitHub_Stars | ⚖️ License | 🏷️ Category / Primary Function | 📝 CPG & Consumer Goods Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
 | **[NocoDB](https://github.com/nocodb/nocodb)** | [![Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers) | AGPL-3.0 | Database-CRM & Audit Builder | Open-source Airtable alternative that turns MySQL/PostgreSQL into collaborative spreadsheets for retail store audits, planogram checklists, and field task tracking. |
 | **[Twenty](https://github.com/twentyhq/twenty)** | [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | AGPL-3.0 | Modern CRM Engine | Modern open-source CRM alternative to Salesforce with clean GraphQL/REST APIs, custom object modeling for retail outlets, distributor hierarchy, and deal pipelines. |
